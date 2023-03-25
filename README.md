@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+⚡ Fun fact: This page community to learn about programming.
+
 <!--
 **MagDev2023/MagDev2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
